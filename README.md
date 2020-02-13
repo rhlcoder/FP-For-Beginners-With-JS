@@ -4,4 +4,4 @@
 
 El curso era [Functional Programming For Beginners With JavaScript](https://www.udemy.com/course/functional-programming-for-beginners-with-javascript/) 
 
-F:\iso\prg\Functional Programming For Beginners With JavaScript - Udemy.iso
+("Functional Programming For Beginners With JavaScript - Udemy.iso" en disco)
