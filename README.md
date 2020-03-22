@@ -1,7 +1,7 @@
-# Me la re mande con github y borre todo. 🤦‍♂️
+# Contenido eliminado
 
-## Tendre que empezar de nuevo por gilazo 🤷‍♂️
+## Dejo el repositorio para cuando retome el curso
 
-El curso era [Functional Programming For Beginners With JavaScript](https://www.udemy.com/course/functional-programming-for-beginners-with-javascript/) 
+Curso: [Functional Programming For Beginners With JavaScript](https://www.udemy.com/course/functional-programming-for-beginners-with-javascript/) 
 
 ("Functional Programming For Beginners With JavaScript - Udemy.iso" en disco)
